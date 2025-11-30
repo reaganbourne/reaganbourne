@@ -16,7 +16,7 @@ I’m a Software Engineer who genuinely loves learning and finding new ways to g
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50px"/>
 </p>
 
-## ✨ Lets Connect!
+## ✨ Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reaganbourne/)
 
